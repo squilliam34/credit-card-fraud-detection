@@ -2,9 +2,9 @@
 
 This is a small project I put together while I learn machine learning this summer.
 The porject was originally done in Google Colab, and I acquired the data using a Kaggle
-API key. For your convenience. I also uploaded the creditcard.csv data file that I 
-used for this project, which contains a series of credit card transactions from European
-cardholders in September 2013. Unfortunately, the data was incredibly unbalanced -- 
+API key. For your convenience. I wasn't able to upload the creditcard.csv data file that I 
+used for this project due to the size. The file, which contains a series of credit card 
+transactions from European cardholders in September 2013 can be downloaded [here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud). Unfortunately, the data was incredibly unbalanced -- 
 0.172% of all transactions were actually fraudlent, and this was reflected in the models'
 performances.
 
